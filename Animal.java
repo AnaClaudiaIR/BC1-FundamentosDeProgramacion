@@ -9,6 +9,7 @@ public void hacerSonido() {
     }
 
 public static void main(String[] args){
+
     Animal animal1 = new Animal();
 
     animal1.nombre =  "Nina";

@@ -4,8 +4,8 @@ public class GestorNotas2{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
     
-        String[] alumnos = new String[3];
-        int[] notas = new int[3];
+        String[] alumnos = new String[10];
+        int[] notas = new int[10];
         int numAlumnos = 0;
         int menu;
 
